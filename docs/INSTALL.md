@@ -17,7 +17,7 @@ pip install -r requirements.txt
 **Step 3:** Clone the codebase: 
 ```
 # Clone cad-transformer codebase
-git clone https://gitlab.hrz.tu-chemnitz.de/hsay--tu-chemnitz.de/cad-transformer.git
+git clone https://github.com/hamkerlab/Habibi2026_Tokenization_CADmodels.git
 ```
 
 Then you are all set.
