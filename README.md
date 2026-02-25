@@ -12,3 +12,11 @@ We compare three different tokenization strategies:
 on advanced text-based representations for CAD models.
 
 We base our comparison of the different tokenization methods on the metrics token fertility and prediction performance on masked sequence parts, using a lightweight BERT-style transformer model and the DeepCAD dataset.
+
+Getting Started 
+- [Installation](docs/INSTALL.md)
+
+- [Data Preparation](docs/DATASET_PREPARATION.md)
+
+- [Training](docs/TRAIN_EVAL.md)
+
