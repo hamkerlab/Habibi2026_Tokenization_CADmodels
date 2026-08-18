@@ -1,6 +1,6 @@
 # Habibi2026_Tokenization_CADmodels
 
-Source code of the article *Influence of Tokenization Strategies on the Prediction of CAD Model Descriptions* by Sayeda Hadisa Habibi, Julia Bergelt, Michael Teichmann, Fred H. Hamker, accepted for the International Symposium on Hybrid Intelligence in Product and Production Engineering (2026).
+Source code of the article *Influence of Tokenization Strategies on the Prediction of CAD Model Descriptions* by Sayeda Hadisa Habibi, Julia Bergelt, Michael Teichmann, Fred H. Hamker. International Symposium on Hybrid Intelligence in Product and Production Engineering (HIPPE). Paderborn, 24.-26. March 2026. doi:10.17619/UNIPB/1-2654.
 
 ## Aim 
 
@@ -20,3 +20,6 @@ Getting Started
 
 - [Training](docs/TRAIN_EVAL.md)
 
+## Citation
+
+For citing this code, see https://doi.org/10.5281/zenodo.18757362
